@@ -24,16 +24,16 @@
   padding-left: 0;
 }
 
-/* -- Upgraded Dark Mode Styles for News Scroll Box -- */
-/* This directly targets the theme's dark mode class */
-.page--dark .news-scroll-box {
+/* -- Final Dark Mode Styles for News Scroll Box -- */
+/* This selector matches what we found in your browser */
+[data-theme="dark"] .news-scroll-box {
   background-color: #252a31; /* 一个深色的背景 */
   border-color: #404652;     /* 一个比背景稍亮的边框 */
   color: #c9d1d9;           /* 明确指定文字颜色为浅灰色 */
 }
 
-/* 这一行是为了确保列表里的文字颜色也被覆盖 */
-.page--dark .news-scroll-box ul li {
+/* This ensures the list items also get the correct color */
+[data-theme="dark"] .news-scroll-box ul li {
   color: #c9d1d9;
 }
 
