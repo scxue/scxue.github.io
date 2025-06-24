@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Shuchen Xue is a fourth-year Ph.D. student in Statistics at the University of Chinese Academy of Sciences (UCAS) and Academy of Mathematics and Systems Science (AMSS), CAS, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). 
+I am a fourth-year Ph.D. student in Statistics at the University of Chinese Academy of Sciences (UCAS) and Academy of Mathematics and Systems Science (AMSS), CAS, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
 
-Currently, he is a research intern at Adobe Research, supervised by [Chongjian Ge](https://chongjiange.github.io). He was previously a visiting student at Columbia University and a research intern at the AI Theory Group in Noah's Ark Lab, where he works closely with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/), [Enze Xie](https://xieenze.github.io). Shuchen received his B.S. degree in Mathematics from the University of Chinese Academy of Sciences (UCAS).
+Currently, I am a research intern at Adobe Research, supervised by [Chongjian Ge](https://chongjiange.github.io). I was previously a visiting student at Columbia University and a research intern at the AI Theory Group in Noah's Ark Lab, where I worked closely with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/), [Enze Xie](https://xieenze.github.io). I received my B.S. degree in Mathematics from the University of Chinese Academy of Sciences (UCAS).
 
 <h2>News</h2>
 <div class="news-scroll-box">
@@ -23,5 +23,5 @@ Currently, he is a research intern at Adobe Research, supervised by [Chongjian G
 </ul>
 </div>
 
-<h2>Selected Publications</h2>
+<!--<h2>Selected Publications</h2>-->
 
