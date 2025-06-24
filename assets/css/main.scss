@@ -24,6 +24,21 @@
   padding-left: 0;
 }
 
+/* -- Dark Mode Styles for News Scroll Box -- */
+@media (prefers-color-scheme: dark) {
+  .news-scroll-box {
+    background-color: #252a31; /* 一个深色的背景, 比纯黑稍浅 */
+    border-color: #404652;     /* 一个比背景稍亮的边框 */
+  }
+
+  /* (可选) 如果你发现夜间模式下新闻文字颜色不对, 可以取消下面这行注释 */
+  /*
+  .news-scroll-box ul li {
+    color: #c9d1d9; 
+  }
+  */
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 
