@@ -11,7 +11,10 @@ Shuchen Xue is a fourth-year Ph.D. student in Statistics at the University of Ch
 
 Currently, he is a research intern at Adobe Research, supervised by [Chongjian Ge](https://chongjiange.github.io). He was previously a visiting student at Columbia University and a research intern at the AI Theory Group in Noah's Ark Lab, where he works closely with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/), [Enze Xie](https://xieenze.github.io). Shuchen received his B.S. degree in Mathematics from the University of Chinese Academy of Sciences (UCAS).
 
+News
+---
+
 
 Selected Publications
-======
+---
 
