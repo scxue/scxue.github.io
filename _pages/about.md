@@ -21,6 +21,15 @@ News
     <li><strong>[05/2024]</strong> One paper was accepted by ICML 2024.</li>
     <li><strong>[02/2024]</strong> One paper was accepted by CVPR 2024.</li>
     <li><strong>[09/2023]</strong> One paper was accepted by NeurIPS 2023.</li>
+    <li><strong>[02/2025]</strong> My news item.</li>
+    <li><strong>[01/2024]</strong> My news item.</li>
+    <li><strong>[12/2023]</strong> My news item.</li>
+    <li><strong>[02/2025]</strong> My news item.</li>
+    <li><strong>[01/2024]</strong> My news item.</li>
+    <li><strong>[12/2023]</strong> My news item.</li>
+    <li><strong>[02/2025]</strong> My news item.</li>
+    <li><strong>[01/2024]</strong> My news item.</li>
+    <li><strong>[12/2023]</strong> My news item.</li>
   </ul>
 </div>
 
