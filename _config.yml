@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "IMG_2116 2.JPG"
   name             : "Shuchen Xue"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Statistics"
   location         : "Beijing, China / San Jose, U.S."
   employer         : "UCAS"
