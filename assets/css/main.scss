@@ -8,6 +8,22 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+/* -- Custom News Scroll Box -- */
+.news-scroll-box {
+  max-height: 200px; /* 设置新闻框的最大高度，可以根据你的喜好调整 */
+  overflow-y: auto;  /* 当内容超出高度时，显示垂直滚动条 */
+  border: 1px solid #e1e4e8; /* 一个细微的边框，颜色可以调整 */
+  background-color: #fdfdfd; /* 一个非常浅的背景色 */
+  padding: 5px 20px; /* 内部的上下和左右边距 */
+  border-radius: 6px; /* 轻微的圆角，让边框不那么生硬 */
+  margin-bottom: 1.5em; /* 在新闻框下方增加一些空白 */
+}
+
+.news-scroll-box ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -42,18 +58,4 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* -- Custom News Scroll Box -- */
-.news-scroll-box {
-  max-height: 200px; /* 设置新闻框的最大高度，可以根据你的喜好调整 */
-  overflow-y: auto;  /* 当内容超出高度时，显示垂直滚动条 */
-  border: 1px solid #e1e4e8; /* 一个细微的边框，颜色可以调整 */
-  background-color: #fdfdfd; /* 一个非常浅的背景色 */
-  padding: 5px 20px; /* 内部的上下和左右边距 */
-  border-radius: 6px; /* 轻微的圆角，让边框不那么生硬 */
-  margin-bottom: 1.5em; /* 在新闻框下方增加一些空白 */
-}
 
-.news-scroll-box ul {
-  list-style-type: none;
-  padding-left: 0;
-}
