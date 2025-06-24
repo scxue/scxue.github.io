@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My Academic Page"
+title                    : "Shuchen Xue"
 title_separator          : "-"
 name                     : &name "Shuchen Xue"
 description              : &description "personal description"
