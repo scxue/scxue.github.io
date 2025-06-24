@@ -13,7 +13,16 @@ Currently, he is a research intern at Adobe Research, supervised by [Chongjian G
 
 News
 ---
-
+<div class="news-scroll-box">
+  <ul>
+    <li><strong>[06/2025]</strong> Started my research internship at Adobe Research.</li>
+    <li><strong>[05/2025]</strong> One paper was accepted by ICML 2025.</li>
+    <li><strong>[01/2025]</strong> One paper was accepted by ICLR 2025.</li>
+    <li><strong>[05/2024]</strong> One paper was accepted by ICML 2024.</li>
+    <li><strong>[02/2024]</strong> One paper was accepted by CVPR 2024.</li>
+    <li><strong>[09/2023]</strong> One paper was accepted by NeurIPS 2023.</li>
+  </ul>
+</div>
 
 Selected Publications
 ---
