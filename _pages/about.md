@@ -14,7 +14,7 @@ Currently, I am a research intern at Adobe Research, supervised by [Chongjian Ge
 <h2>News</h2>
 <div class="news-scroll-box">
 <ul>
-<li><strong>[06/2025]</strong> One paper was selected as Oral Presentation by ICML 2025 ([ES-FoMo workshop](https://es-fomo.com/)).</li>
+<li><strong>[06/2025]</strong> One paper was selected as Oral Presentation by ICML 2025 (<a href="https://es-fomo.com/" target="_blank">ES-FoMo workshop</a>).</li>
 <li><strong>[06/2025]</strong> Two papers were accepted by ICCV 2025.</li>
 <li><strong>[06/2025]</strong> Started my research internship at Adobe Research.</li>
 <li><strong>[05/2025]</strong> One paper was accepted by ICML 2025.</li>
