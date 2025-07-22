@@ -201,6 +201,7 @@ exclude:
   - _pages/profiles.md     # 隐藏人物页面
   - _pages/books.md
   - _books/
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
