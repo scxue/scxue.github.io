@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my internship at Adobe Research.
+Thrilled to begin my internship at Adobe Research.
