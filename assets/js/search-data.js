@@ -59,12 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-was-accepted-by-neurips-2023",
+      },{id: "news-one-paper-was-accepted-by-neurips-2023",
           title: 'One paper was accepted by NeurIPS 2023.',
           description: "",
           section: "News",},{id: "news-one-paper-was-accepted-by-cvpr-2024",
