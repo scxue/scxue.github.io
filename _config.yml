@@ -199,6 +199,8 @@ exclude:
   - _data/repositories.yml # 停止加载这个页面的数据
   - _pages/teaching.md     # 隐藏教学页面
   - _pages/profiles.md     # 隐藏人物页面
+  - _pages/books.md
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
