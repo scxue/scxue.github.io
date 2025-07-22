@@ -81,14 +81,14 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/scxue# your GitHub user name", "_blank");
+          window.open("https://github.com/scxue", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/shuchen-xue# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/shuchen-xue", "_blank");
         },
       },{
         id: 'social-scholar',
