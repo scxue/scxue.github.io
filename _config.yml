@@ -191,6 +191,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md         # 隐藏博客页面的链接
+  - _posts/                # 隐藏所有的博客文章
+  - _pages/projects.md     # 隐藏项目页面的链接
+  - _projects/             # 隐藏所有具体的项目页面
+  - _pages/repositories.md # 隐藏仓库页面
+  - _data/repositories.yml # 停止加载这个页面的数据
+  - _pages/teaching.md     # 隐藏教学页面
+  - _pages/profiles.md     # 隐藏人物页面
 keep_files:
   - CNAME
   - .nojekyll
