@@ -47,6 +47,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-was-selected-as-oral-presentation-by-icml-2025-es-fomo-workshop-top-3-42",
           title: 'One paper was selected as Oral Presentation by ICML 2025 (ES-FoMo workshop) (Top...',
           description: "",
+          section: "News",},{id: "news-one-paper-was-selected-as-highlight-by-iccv-2025",
+          title: 'One paper was selected as Highlight by ICCV 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
