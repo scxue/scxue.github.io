@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year Ph.D. student in Statistics at the University of Chinese Academy of Sciences (UCAS) and Academy of Mathematics and Systems Science (AMSS), CAS, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I work on the theory, algorithmically efficient training, and inference of scalable generative models.
+I am a final-year Ph.D. student in Statistics at the University of Chinese Academy of Sciences (UCAS) and Academy of Mathematics and Systems Science (AMSS), CAS, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). My work aims to bridge the theory and practice of scalable generative models, with a focus on efficient training and inference algorithms. I'm currently working on post-training of diffusion models.
 
 Currently, I am a research intern at Adobe Research, supervised by [Chongjian Ge](https://chongjiange.github.io). I was previously a visiting student at Columbia University and a research intern at the AI Theory Group in Noah's Ark Lab, where I worked closely with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/), [Enze Xie](https://xieenze.github.io). I received my B.S. degree in Mathematics from the University of Chinese Academy of Sciences (UCAS).
+
+I will be graduating in Summer 2026 and am actively seeking full-time positions. I'm excited to connect and discuss potential opportunities.
