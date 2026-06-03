@@ -59,6 +59,12 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-were-accepted-by-iclr-2026",
           title: 'Three papers were accepted by ICLR 2026.',
           description: "",
+          section: "News",},{id: "news-three-papers-were-accepted-by-icml-2026-one-paper-was-selected-as-an-oral-presentation",
+          title: 'Three papers were accepted by ICML 2026. One paper was selected as an...',
+          description: "",
+          section: "News",},{id: "news-started-as-a-research-scientist-at-nvidia-research",
+          title: 'Started as a Research Scientist at NVIDIA Research.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
