@@ -1,34 +1,44 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student in Statistics
-      institution: Academy of Mathematics and Systems Science, Chinese Academy of Sciences & University of Chinese Academy of Sciences, Beijing, CN
-      year: 2021-Now
+    - title: Ph.D. in Statistics
+      institution: University of Chinese Academy of Sciences, Beijing, CN
+      year: 2026
       description:
+        - "Research conducted at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences"
         - "Advisor: Prof. <a href='http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html#home'>Zhi-Ming Ma</a>"
-    - title: B.S. in Math
+    - title: B.S. in Mathematics
       institution: University of Chinese Academy of Sciences, Beijing, CN
       year: 2021
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
-      institution: ByteDance Seed Vision & Seed Edge
-      year: Nov. 2025-Present
+    - title: Research Scientist
+      institution: NVIDIA Research, Efficient AI team
+      year: Jun. 2026-Present
       description:
+        - "Working with Dr. <a href='https://xieenze.github.io/'>Enze Xie</a> and Prof. <a href='https://hanlab.mit.edu/songhan'>Song Han</a>"
+
+    - title: Research Intern
+      institution: ByteDance Seed
+      year: Nov. 2025-May 2026
+      description:
+        - "Worked with <a href='https://openreview.net/profile?id=~Tao_Yang9'>Tao Yang</a> and <a href='https://github.com/Yuxin-CV'>Yuxin Fang</a>"
 
     - title: Research Intern
       institution: Adobe Research
       year: Jun. 2025-Sep. 2025
-      description: "Mentor: Dr. <a href='https://chongjiange.github.io/'>Chongjian Ge</a>"
+      description:
+        - "Worked with Dr. <a href='https://chongjiange.github.io/'>Chongjian Ge</a>"
 
     - title: Research Intern
-      institution: AI Theory Group, Noah's Ark Lab
+      institution: AI Theory Group, Huawei Noah's Ark Lab
       year: Sep. 2022-May 2025
       description:
+        - "Worked with <a href='https://mingyangyi.github.io'>Mingyang Yi</a>, <a href='https://hu-tianyang.github.io'>Tianyang Hu</a>, and <a href='https://sites.google.com/site/liuzhaoqiang2016/'>Zhaoqiang Liu</a>"
 
-    - title: Exchange Student
+    - title: Visiting Student
       institution: Columbia University
       year: 2020 Spring
       description:

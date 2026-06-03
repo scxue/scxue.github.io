@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year Ph.D. student in Statistics at the University of Chinese Academy of Sciences (UCAS) and Academy of Mathematics and Systems Science (AMSS), CAS, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). My work aims to bridge the theory and practice of scalable generative models, with a focus on efficient training and inference algorithms. I'm currently working on post-training of diffusion models.
+Shuchen Xue is a Research Scientist in the Efficient AI team at NVIDIA Research, working with Dr. [Enze Xie](https://xieenze.github.io) and Prof. [Song Han](https://hanlab.mit.edu/songhan). His research lies at the intersection of generative model theory, efficient training and inference, and reinforcement learning for generative models.
 
-Currently, I am a research intern at ByteDance Seed Vision & Seed Edge. I was previously a research intern at Adobe Research, supervised by [Chongjian Ge](https://chongjiange.github.io), a visiting student at Columbia University, and a research intern at the AI Theory Group in Noah's Ark Lab, where I worked closely with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/), [Enze Xie](https://xieenze.github.io). I received my B.S. degree in Mathematics from the University of Chinese Academy of Sciences (UCAS).
+He received his Ph.D. in Statistics from the University of Chinese Academy of Sciences (UCAS) in 2026, with research conducted at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). He received his B.S. degree in Mathematics from UCAS in 2021.
 
-I will be graduating in Summer 2026 and am actively seeking full-time positions. I'm excited to connect and discuss potential opportunities.
+Before joining NVIDIA, he was a research intern at ByteDance Seed, working with [Tao Yang](https://openreview.net/profile?id=~Tao_Yang9) and [Yuxin Fang](https://github.com/Yuxin-CV); at Adobe Research, working with [Chongjian Ge](https://chongjiange.github.io); and at Huawei Noah's Ark Lab, working with [Mingyang Yi](https://mingyangyi.github.io), [Tianyang Hu](https://hu-tianyang.github.io), and [Zhaoqiang Liu](https://sites.google.com/site/liuzhaoqiang2016/). He was also a visiting student at Columbia University.
